@@ -1,0 +1,80 @@
+{
+    "activities": [
+        {
+            "name": "PowerShell",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:16:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-12 18:16:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:16:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-12 18:16:19"
+                }
+            ]
+        },
+        {
+            "name": "_AutoTimer [D:\\_Programming Projects\\_AutoTimer] - ...\\autotimer.py - PyCharm",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:23:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2020-04-12 18:23:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:23:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2020-04-12 18:23:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:24:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2020-04-12 18:23:57"
+                }
+            ]
+        },
+        {
+            "name": "#girl_talk - Discord",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:23:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2020-04-12 18:23:55"
+                }
+            ]
+        },
+        {
+            "name": "https:",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2020-04-12 18:24:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2020-04-12 18:24:01"
+                }
+            ]
+        }
+    ]
+}
